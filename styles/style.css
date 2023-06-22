@@ -1,0 +1,48 @@
+
+body{
+    background: #d2d2c1 url('../images/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 100%;
+}
+
+#menu{
+    background: #c5c5b2;
+    padding: 18px;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#conteudo{
+    background: #e8e8d9;
+    padding:10px;
+}
+
+#footer{
+    font-weight: bold;
+    text-align: center;
+}
+
+#img-annabella{
+    background-color: #828271;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link{
+    color:#4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
